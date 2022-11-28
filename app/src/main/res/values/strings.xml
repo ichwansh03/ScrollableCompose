@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearningCompose</string>
+    <string name="name1">Abdul</string>
+    <string name="name2">Ahmad</string>
+    <string name="name3">Adel</string>
+    <string name="name4">Abdian</string>
+    <string name="name5">Andi</string>
+    <string name="major1">Informatika</string>
+    <string name="major2">Sistem Informasi</string>
+    <string name="major3">Teknik Komputer</string>
+</resources>
