@@ -1,4 +1,4 @@
-package com.jrektor.learningcompose
+package com.jrektor.learningcompose.list
 
 import android.graphics.drawable.Icon
 import androidx.annotation.DrawableRes
